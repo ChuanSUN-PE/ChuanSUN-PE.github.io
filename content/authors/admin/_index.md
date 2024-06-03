@@ -11,7 +11,7 @@ last_name: SUN
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ☕️ 
 
 # Is this the primary user of the site?
 superuser: true
@@ -42,9 +42,9 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com.sg/citations?user=HqYtgXwAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-9454-9480
 
 interests:
   - Artificial Intelligence
