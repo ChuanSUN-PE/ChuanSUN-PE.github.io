@@ -33,16 +33,16 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/ChuanSUN-PE
   - icon: academicons/google-scholar
     url: https://scholar.google.com.sg/citations?user=HqYtgXwAAAAJ&hl=en
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0001-9454-9480
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Chuan-Sun
   - icon: academicons/ieee
-    url: https://ieeexplore.ieee.org/author/37089299207
+    url: https://ieeexplore.ieee.org/author/
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0001-9454-9480
+  - icon: brands/github
+    url: https://github.com/ChuanSUN-PE
 
 interests:
   - Power Electronics	
@@ -55,14 +55,14 @@ education:
     date_start: 2019-09-01
     date_end: 2023-09-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Ka-Hong LOO](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-loo-ka-hong/). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MEng Information Technology
+    institution: Macau University of Science and Technology (M.U.S.T.)
+    date_start: 2015-09-01
+    date_end: 2017-08-31
     summary: |
       GPA: 3.8/4.0
 
@@ -70,10 +70,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Electronic and Information Engineering
+    institution: North University of China (NUC)
+    date_start: 2011-09-01
+    date_end: 2015-07-01
     summary: |
       GPA: 3.4/4.0
       
