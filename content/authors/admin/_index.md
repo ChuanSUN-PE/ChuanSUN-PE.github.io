@@ -47,15 +47,15 @@ profiles:
     url: https://orcid.org/0000-0001-9454-9480
 
 interests:
+  - Power Electronics	
+  - Automatic Control
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Power Electronics
+    institution: The Hong Kong Polytechnic University (PolyU)
+    date_start: 2019-09-01
+    date_end: 2023-09-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
