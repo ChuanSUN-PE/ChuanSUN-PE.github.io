@@ -39,7 +39,10 @@ profiles:
     url: https://scholar.google.com.sg/citations?user=HqYtgXwAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-9454-9480
-
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Chuan-Sun
+  - icon: academicons/ieee
+    url: https://ieeexplore.ieee.org/author/37089299207
 
 interests:
   - Power Electronics	
