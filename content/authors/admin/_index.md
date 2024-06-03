@@ -38,15 +38,17 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/ChuanSUN-PE
+#  - icon: brands/linkedin
+#    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com.sg/citations?user=HqYtgXwAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-9454-9480
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Chuan-Sun
+  - icon: academicons/ieee
+    url: https://ieeexplore.ieee.org/author/37089299207
 	
 
 interests:
