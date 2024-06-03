@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 孙川
+title: 孫川
 
 # Name pronunciation (optional)
 name_pronunciation: Chuan SUN
