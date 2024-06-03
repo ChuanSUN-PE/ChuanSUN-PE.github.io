@@ -6,8 +6,8 @@ title: 孙川
 name_pronunciation: Chuan SUN
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Chuan
+last_name: SUN
 
 # Status emoji
 status:
