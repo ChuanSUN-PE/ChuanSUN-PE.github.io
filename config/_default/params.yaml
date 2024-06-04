@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Advanced Power Conversion and Control Research Group"
+      text: "Power Electronics Research Group"
 
 # Site footer
 footer:
