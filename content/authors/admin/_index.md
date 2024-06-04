@@ -59,7 +59,8 @@ education:
     button:
       text: 'Read PhD Dissertation'
       url: 'https://theses.lib.polyu.edu.hk/handle/200/12668'
-    Supervised by Prof. Ka-Hong LOO.
+    summary: |
+       Supervised by Prof. Ka-Hong LOO.
   - area: MSc in Information Technology
     institution: Macau University of Science and Technology (M.U.S.T.)
     date_start: 2015-09-01
