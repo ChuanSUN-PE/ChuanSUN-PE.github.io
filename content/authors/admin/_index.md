@@ -66,9 +66,8 @@ education:
     date_end: 2017-08-31
     summary: |
       - GPA: 3.8/4.0
-      - Supervised by Prof. Xiaodong LI. 
-    button:
-      url: 'https://fie.must.edu.mo/id-1444/person/view/id-541.html'
+      - Supervised by [Prof. Xiaodong LI] (https://fie.must.edu.mo/id-1444/person/view/id-541.html).
+
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
