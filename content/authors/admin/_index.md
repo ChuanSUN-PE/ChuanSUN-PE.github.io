@@ -70,6 +70,8 @@ education:
     button:
       text: 'Read MSc Thesis'
       url: 'https://must.primo.exlibrisgroup.com/permalink/853MUST_INST/reglfj/alma991003146058205076'
+    icon: brands/github
+    url: https://github.com/ChuanSUN-PE
   - area: BEng (Electronic and Information Engineering)
     institution: North University of China (NUC)
     date_start: 2011-09-01
