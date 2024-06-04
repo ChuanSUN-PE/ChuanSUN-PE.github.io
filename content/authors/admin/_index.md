@@ -56,7 +56,7 @@ education:
     date_end: 2023-09-30
     summary: |
       - Thesis on Optimized Transient Modulation and Control Strategies for Bidirectional Dual-Active-Bridge DC-DC Converters. 
-      - Supervised by [Prof. Ka-Hong LOO] (https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-loo-ka-hong/).
+      - Supervised by [Prof. Ka-Hong LOO](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-loo-ka-hong/).
 
     button:
       text: 'Read Thesis'
@@ -67,7 +67,7 @@ education:
     date_end: 2017-08-31
     summary: |
       - GPA: 3.8/4.0
-      - Supervised by [Prof. Xiaodong LI] (https://fie.must.edu.mo/id-1444/person/view/id-541.html).
+      - Supervised by [Prof. Xiaodong LI](https://fie.must.edu.mo/id-1444/person/view/id-541.html).
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
