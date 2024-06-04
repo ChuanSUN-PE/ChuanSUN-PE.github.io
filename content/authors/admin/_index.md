@@ -56,10 +56,11 @@ education:
     date_end: 2023-09-30
     summary: |
       PhD Dissertation on Optimized Transient Modulation and Control Strategies for Bidirectional Dual-Active-Bridge DC-DC Converters. Supervised by [Prof. Ka-Hong LOO] 
-    - url: https://github.com/HugoBlox/hugo-blox-builder
     button:
       text: 'Read PhD Dissertation'
       url: 'https://theses.lib.polyu.edu.hk/handle/200/12668'
+    icon: brands/github
+    url: https://github.com/ChuanSUN-PE
   - area: MSc (Information Technology)
     institution: Macau University of Science and Technology (M.U.S.T.)
     date_start: 2015-09-01
