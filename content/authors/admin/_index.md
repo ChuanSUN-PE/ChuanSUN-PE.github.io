@@ -51,7 +51,7 @@ interests:
 
 education:
   - area: PhD (Power Electronics)
-    institution: Hong Kong Polytechnic University (PolyU)
+    institution: [Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/)
     date_start: 2019-09-01
     date_end: 2023-09-30
     summary: |
@@ -60,7 +60,7 @@ education:
       text: 'Read PhD Dissertation'
       url: 'https://theses.lib.polyu.edu.hk/handle/200/12668'
   - area: MSc (Information Technology)
-    institution: Macau University of Science and Technology (M.U.S.T.)
+    institution: [Macau University of Science and Technology (M.U.S.T.)](https://www.must.edu.mo/)
     date_start: 2015-09-01
     date_end: 2017-08-31
     summary: |
@@ -72,7 +72,7 @@ education:
       text: 'Read MSc Thesis'
       url: 'https://must.primo.exlibrisgroup.com/permalink/853MUST_INST/reglfj/alma991003146058205076'
   - area: BEng (Electronic and Information Engineering)
-    institution: North University of China (NUC)
+    institution: [North University of China (NUC)](https://www.nuc.edu.cn/)
     date_start: 2011-09-01
     date_end: 2015-07-01
     # summary: |
