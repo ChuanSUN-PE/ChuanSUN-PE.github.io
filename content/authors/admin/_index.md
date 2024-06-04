@@ -51,14 +51,14 @@ interests:
 
 education:
   - area: PhD Power Electronics
-    institution: The Hong Kong Polytechnic University (PolyU)
+    institution: Hong Kong Polytechnic University (PolyU)
     date_start: 2019-09-01
     date_end: 2023-09-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Ka-Hong LOO](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-loo-ka-hong/). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Optimized Transient Modulation and Control Strategies for Bidirectional Dual-Active-Bridge DC-DC Converters. Supervised by [Prof Ka-Hong LOO](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-loo-ka-hong/). 
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://theses.lib.polyu.edu.hk/handle/200/12668'
   - area: MEng Information Technology
     institution: Macau University of Science and Technology (M.U.S.T.)
     date_start: 2015-09-01
