@@ -38,7 +38,7 @@ profiles:
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Chuan-Sun
   - icon: academicons/ieee
-    url: https://ieeexplore.ieee.org/author/
+    url: https://ieeexplore.ieee.org/author/37089299207
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-9454-9480
   - icon: brands/github
