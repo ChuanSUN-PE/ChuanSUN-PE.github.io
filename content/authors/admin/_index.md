@@ -59,7 +59,6 @@ education:
     button:
       text: 'Read PhD Dissertation'
       url: 'https://theses.lib.polyu.edu.hk/handle/200/12668'  
-    company_url: 'https://staff.eie.polyu.edu.hk/khloo/'  
   - area: MSc in Information Technology
     institution: Macau University of Science and Technology (M.U.S.T.)
     date_start: 2015-09-01
