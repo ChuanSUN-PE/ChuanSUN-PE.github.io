@@ -139,7 +139,7 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 70
   - name: Chinese
     percent: 75
   - name: Portuguese
@@ -179,4 +179,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chuan Sun (Member, IEEE) received the B.Eng. degree in electronic and information engineering from the North University of China, Taiyuan, China, in 2015, the M.Sc. degree in information technology from the Macau University of Science and Technology, Macau, China, in 2017, and the Ph.D. degree in power electronics from The Hong Kong Polytechnic University, Hong Kong, China, in 2023. 
+
+From 2017 to 2018, he was an Electronic Engineer with Hangzhou Livoltek Power Company, Ltd., Hangzhou, China. Upon completion of his PhD journey, he joined the College of Electrical Engineering, Sichuan University, Chengdu, China, as an Assistant Research Fellow and a Postdoctoral Researcher. Since September 2024, he has been with the Macau University of Science and Technology, Macau, China, where he is currently an Assistant Professor with the Department of Engineering Science.
+
+His current research interests include developing advanced modulation and control strategies for bidirectional resonant and nonresonant power converters.
