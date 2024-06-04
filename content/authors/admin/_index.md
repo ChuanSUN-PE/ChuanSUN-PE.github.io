@@ -90,7 +90,6 @@ work:
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
