@@ -11,7 +11,7 @@ last_name: SUN
 
 # Status emoji
 status:
-  icon: ☕️ 
+  icon: 🎓 
 
 # Is this the primary user of the site?
 superuser: true
@@ -55,7 +55,7 @@ education:
     date_start: 2019-09-01
     date_end: 2023-09-30
     summary: |
-      PhD Dissertation on Optimized Transient Modulation and Control Strategies for Bidirectional Dual-Active-Bridge DC-DC Converters. Supervised by [Prof. Ka-Hong LOO]. 
+      PhD Dissertation on Optimized Transient Modulation and Control Strategies for Bidirectional Dual-Active-Bridge DC-DC Converters. Supervised by [Prof. Ka-Hong LOO](https://github.com/ChuanSUN-PE). 
     button:
       text: 'Read PhD Dissertation'
       url: 'https://theses.lib.polyu.edu.hk/handle/200/12668'
