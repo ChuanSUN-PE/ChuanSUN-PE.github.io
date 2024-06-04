@@ -57,7 +57,7 @@ education:
     summary: |
       PhD Dissertation on Optimized Transient Modulation and Control Strategies for Bidirectional Dual-Active-Bridge DC-DC Converters. 
     text: 
-      Supervised by [Prof. Ka-Hong LOO] (https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-loo-ka-hong/).
+      Supervised by Prof. Ka-Hong LOO https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-loo-ka-hong/.
     button:
       text: 'Read PhD Dissertation'
       url: 'https://theses.lib.polyu.edu.hk/handle/200/12668'
