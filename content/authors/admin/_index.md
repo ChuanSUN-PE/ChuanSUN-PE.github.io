@@ -54,10 +54,8 @@ education:
     institution: Hong Kong Polytechnic University (PolyU)
     date_start: 2019-09-01
     date_end: 2023-09-30
-  - icon: academicons/ieee
-    url: https://ieeexplore.ieee.org/author/37089299207
     summary: |
-      PhD Dissertation on Optimized Transient Modulation and Control Strategies for Bidirectional Dual-Active-Bridge DC-DC Converters.
+      PhD Dissertation on Optimized Transient Modulation and Control Strategies for Bidirectional Dual-Active-Bridge DC-DC Converters. Supervised by Prof. Ka-Hong LOO. 
     button:
       text: 'Read PhD Dissertation'
       url: 'https://theses.lib.polyu.edu.hk/handle/200/12668'
