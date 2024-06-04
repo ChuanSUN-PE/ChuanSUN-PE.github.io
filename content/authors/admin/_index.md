@@ -55,11 +55,13 @@ education:
     date_start: 2019-09-01
     date_end: 2023-09-30
     summary: |
-      Thesis on Optimized Transient Modulation and Control Strategies for Bidirectional Dual-Active-Bridge DC-DC Converters. Supervised by [Prof Ka-Hong LOO](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-loo-ka-hong/). 
+      Thesis on Optimized Transient Modulation and Control Strategies for Bidirectional Dual-Active-Bridge DC-DC Converters. 
+      
+      Supervised by [Prof Ka-Hong LOO](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-loo-ka-hong/). 
     button:
       text: 'Read Thesis'
       url: 'https://theses.lib.polyu.edu.hk/handle/200/12668'
-  - area: MEng Information Technology
+  - area: MSc Information Technology
     institution: Macau University of Science and Technology (M.U.S.T.)
     date_start: 2015-09-01
     date_end: 2017-08-31
@@ -70,7 +72,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Electronic and Information Engineering
+  - area: BEng Electronic and Information Engineering
     institution: North University of China (NUC)
     date_start: 2011-09-01
     date_end: 2015-07-01
