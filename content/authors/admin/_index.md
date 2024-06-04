@@ -55,13 +55,11 @@ education:
     date_start: 2019-09-01
     date_end: 2023-09-30
     summary: |
-      PhD Dissertation on Optimized Transient Modulation and Control Strategies for Bidirectional Dual-Active-Bridge DC-DC Converters. Supervised by Prof. Ka-Hong LOO.
+      PhD Dissertation on Optimized Transient Modulation and Control Strategies for Bidirectional Dual-Active-Bridge DC-DC Converters.
     button:
       text: 'Read PhD Dissertation'
       url: 'https://theses.lib.polyu.edu.hk/handle/200/12668'
-    text: |-
-      [Prof. Ka-Hong LOO](https://staff.eie.polyu.edu.hk/khloo/)
-
+    Supervised by Prof. Ka-Hong LOO.
   - area: MSc in Information Technology
     institution: Macau University of Science and Technology (M.U.S.T.)
     date_start: 2015-09-01
