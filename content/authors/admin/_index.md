@@ -59,8 +59,9 @@ education:
     button:
       text: 'Read PhD Dissertation'
       url: 'https://theses.lib.polyu.edu.hk/handle/200/12668'
-    icon: brands/github
-    url: https://github.com/ChuanSUN-PE
+    button:
+      text: 'kahong loo'
+      url: 'https://theses.lib.polyu.edu.hk/handle/200/12668'
   - area: MSc (Information Technology)
     institution: Macau University of Science and Technology (M.U.S.T.)
     date_start: 2015-09-01
@@ -70,8 +71,6 @@ education:
     button:
       text: 'Read MSc Thesis'
       url: 'https://must.primo.exlibrisgroup.com/permalink/853MUST_INST/reglfj/alma991003146058205076'
-    icon: brands/github
-    url: https://github.com/ChuanSUN-PE
   - area: BEng (Electronic and Information Engineering)
     institution: North University of China (NUC)
     date_start: 2011-09-01
