@@ -65,6 +65,9 @@ education:
     date_end: 2017-08-31
     summary: |
       MSc Thesis on Optimized Modulation Strategies for Fast Transient Response in Dual-Active-Bridge DC-DC Converter. Supervised by Prof. Xiaodong LI.
+
+      [Prof. Ka-Hong LOO](https://staff.eie.polyu.edu.hk/khloo/)
+
     button:
       text: 'Read MSc Thesis'
       url: 'https://must.primo.exlibrisgroup.com/permalink/853MUST_INST/reglfj/alma991003146058205076'
@@ -178,9 +181,5 @@ awards:
 ## About Me
 
 Chuan Sun (Member, IEEE) received the B.Eng. degree in electronic and information engineering from the North University of China, Taiyuan, China, in 2015, the M.Sc. degree in information technology from the Macau University of Science and Technology, Macau, China, in 2017, and the Ph.D. degree in power electronics from The Hong Kong Polytechnic University, Hong Kong, China, in 2023. 
-
-[Prof. Ka-Hong LOO](https://staff.eie.polyu.edu.hk/khloo/)
-
-[Prof. Xiaodong LI](https://fie.must.edu.mo/id-3207/person/view/id-1904.html)
 
 From 2017 to 2018, he was an Electronic Engineer with Hangzhou Livoltek Power Company, Ltd., Hangzhou, China. Upon completion of his PhD journey, he joined the College of Electrical Engineering, Sichuan University, Chengdu, China, as an Assistant Research Fellow and a Postdoctoral Researcher. Since September 2024, he has been with the Macau University of Science and Technology, Macau, China, where he is currently an Assistant Professor with the Department of Engineering Science.
