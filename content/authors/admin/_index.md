@@ -56,7 +56,6 @@ education:
     date_end: 2023-09-30
     summary: |
       PhD Dissertation on Optimized Transient Modulation and Control Strategies for Bidirectional Dual-Active-Bridge DC-DC Converters. 
-      |
       Supervised by [Prof. Ka-Hong LOO](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-loo-ka-hong/).
     button:
       text: 'Read PhD Dissertation'
@@ -66,7 +65,8 @@ education:
     date_start: 2015-09-01
     date_end: 2017-08-31
     summary: |
-      MSc Thesis on Optimized Modulation Strategies for Fast Transient Response in Dual-Active-Bridge DC-DC Converter. Supervised by [Prof. Xiaodong LI](https://fie.must.edu.mo/id-1444/person/view/id-541.html).
+      MSc Thesis on Optimized Modulation Strategies for Fast Transient Response in Dual-Active-Bridge DC-DC Converter. 
+      Supervised by [Prof. Xiaodong LI](https://fie.must.edu.mo/id-1444/person/view/id-541.html).
     button:
       text: 'Read MSc Thesis'
       url: 'https://must.primo.exlibrisgroup.com/permalink/853MUST_INST/reglfj/alma991003146058205076'
