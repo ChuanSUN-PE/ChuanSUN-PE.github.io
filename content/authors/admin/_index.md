@@ -64,9 +64,9 @@ education:
     date_start: 2015-09-01
     date_end: 2017-08-31
     summary: |
-      Master's Thesis on Optimized Modulation Strategies for Fast Transient Response in Dual-Active-Bridge DC-DC Converter. Supervised by [Prof. Xiaodong LI](https://fie.must.edu.mo/id-1444/person/view/id-541.html).
+      MSc Thesis on Optimized Modulation Strategies for Fast Transient Response in Dual-Active-Bridge DC-DC Converter. Supervised by [Prof. Xiaodong LI](https://fie.must.edu.mo/id-1444/person/view/id-541.html).
     button:
-      text: 'Read Master's Thesis'
+      text: 'Read MSc Thesis'
       url: 'https://must.primo.exlibrisgroup.com/permalink/853MUST_INST/reglfj/alma991003146058205076'
   - area: BEng Electronic and Information Engineering
     institution: North University of China (NUC)
