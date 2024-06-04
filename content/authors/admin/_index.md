@@ -55,7 +55,9 @@ education:
     date_start: 2019-09-01
     date_end: 2023-09-30
     summary: |
-      PhD Dissertation [page elements](https://docs.hugoblox.com/reference/markdown/) on Optimized Transient Modulation and Control Strategies for Bidirectional Dual-Active-Bridge DC-DC Converters. Supervised by [Prof. Ka-Hong LOO](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-loo-ka-hong/).
+      PhD Dissertation on Optimized Transient Modulation and Control Strategies for Bidirectional Dual-Active-Bridge DC-DC Converters. 
+      |
+      Supervised by [Prof. Ka-Hong LOO](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-loo-ka-hong/).
     button:
       text: 'Read PhD Dissertation'
       url: 'https://theses.lib.polyu.edu.hk/handle/200/12668'
@@ -179,6 +181,6 @@ awards:
 
 ## About Me
 
-Chuan Sun (Member, IEEE) received [page elements](https://docs.hugoblox.com/reference/markdown/) the B.Eng. degree in electronic and information engineering from the North University of China, Taiyuan, China, in 2015, the M.Sc. degree in information technology from the Macau University of Science and Technology, Macau, China, in 2017, and the Ph.D. degree in power electronics from The Hong Kong Polytechnic University, Hong Kong, China, in 2023. 
+Chuan Sun (Member, IEEE) received the B.Eng. degree in electronic and information engineering from the North University of China, Taiyuan, China, in 2015, the M.Sc. degree in information technology from the Macau University of Science and Technology, Macau, China, in 2017, and the Ph.D. degree in power electronics from The Hong Kong Polytechnic University, Hong Kong, China, in 2023. 
 
 From 2017 to 2018, he was an Electronic Engineer with Hangzhou Livoltek Power Company, Ltd., Hangzhou, China. Upon completion of his PhD journey, he joined the College of Electrical Engineering, Sichuan University, Chengdu, China, as an Assistant Research Fellow and a Postdoctoral Researcher. Since September 2024, he has been with the Macau University of Science and Technology, Macau, China, where he is currently an Assistant Professor with the Department of Engineering Science.
