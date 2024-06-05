@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: Example_DAB.svg
+          filename: 12953528_Scene-15.svg
           filters:
             brightness: 1.0
           size: cover
