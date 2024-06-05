@@ -11,7 +11,7 @@ last_name: SUN
 
 # Status emoji
 status:
-  icon: at-symbol
+  icon: c:\Users\SUNCHUAN\Desktop\energy-system.png
 
 # Is this the primary user of the site?
 superuser: true
