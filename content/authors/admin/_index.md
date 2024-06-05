@@ -11,7 +11,7 @@ last_name: SUN
 
 # Status emoji
 status:
-  icon: 😊
+  icon: at-symbol
 
 # Is this the primary user of the site?
 superuser: true
