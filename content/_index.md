@@ -21,14 +21,14 @@ sections:
     design:
       css_class: dark
       background:
-        color: red
+        color: black
         image:
           # Add your image background to `assets/media/`.
           filename: 17213522_rm373batch16-54.svg
           filters:
             brightness: 1.0
           size: cover
-          position: center
+          position: left
           parallax: false
   - block: markdown
     content:
