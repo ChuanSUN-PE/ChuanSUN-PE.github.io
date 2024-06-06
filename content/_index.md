@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: 4967848.svg
+          filename: stacked-peaks-haikei.svg
           filters:
             brightness: 1.0
           size: cover
