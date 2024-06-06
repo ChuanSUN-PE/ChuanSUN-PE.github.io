@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: 25134504_6985676.svg
+          filename: 12067352_4884840.svg
           filters:
             brightness: 1.0
           size: cover
