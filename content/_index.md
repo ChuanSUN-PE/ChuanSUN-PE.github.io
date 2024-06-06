@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: 17213522_rm373batch16-54.svg
+          filename: blue-circuits.svg
           filters:
             brightness: 1.0
           size: cover
