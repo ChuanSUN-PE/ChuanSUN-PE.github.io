@@ -35,11 +35,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Our research group undertakes research in power electronics and power systems to solve engineering problems related to electrical energy conversion, utilization, storage, control and management. 
         
-        Please reach out to collaborate 😃
+        Typically, we focus on optimizing circuit topologies, designing advanced modulation and control algorithms, implementing intelligent power management, and exploring new semiconductor devices and magnetic elements to achieve higher-efficiency, faster, and more flexible and robust power conversion in a wide range of applications such as renewable energy systems, wireless power transfer, electric vehicles, and industrial and consumer electronics. 
+        
+        As the world’s energy systems are moving from fossil-fuel based to more electrification, power electronics will play an increasing and essential role in supplying clean energy to us and securing a sustainable and low-carbon living.
+        
+        Please reach out to collaborate! 😃
     design:
       columns: '1'
   - block: collection
