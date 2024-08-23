@@ -24,10 +24,6 @@ Teach your course by sharing videos with your students. Choose from one of the f
 
 [Download file](./conference-paper.pdf)
 
-**Youtube**:
-
-    {{</* youtube w7Ft2ymGmfc */>}}
-
 **Bilibili**:
 
     {{</* bilibili id="BV1WV4y1r7DF" */>}}
