@@ -44,7 +44,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/ChuanSUN-PE
 
-research interests:
+interests:
   - Power Electronics	
   - Automatic Control
   - Artificial Intelligence
