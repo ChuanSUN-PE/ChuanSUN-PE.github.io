@@ -1,5 +1,5 @@
 ---
-title: Learn ads
+title: Learn Algorithms and Data Structures
 summary: Easily learn Python in 10 minutes!
 date: 2023-10-24
 type: docs
