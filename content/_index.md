@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Our research group undertakes research in power electronics and power systems to solve engineering problems related to electrical energy conversion, utilization, storage, control and management. 
+        Our research group undertakes research in **power electronics** and **power systems** to solve engineering problems related to electrical energy conversion, utilization, storage, control and management. 
         
         Typically, we focus on optimizing circuit topologies, designing advanced modulation and control algorithms, implementing intelligent power management, and exploring new semiconductor devices and magnetic elements to achieve higher-efficiency, faster, and more flexible and robust power conversion in a wide range of applications such as renewable energy systems, wireless power transfer, electric vehicles, and industrial and consumer electronics. 
         
