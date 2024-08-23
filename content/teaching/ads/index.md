@@ -22,7 +22,7 @@ Teach your course by sharing videos with your students. Choose from one of the f
 
 {{< youtube D2vj0WcvH5c >}}
 
-{{% staticref "uploads/cv.pdf" %}}Download my CV{{% /staticref %}}
+{{% staticref "uploads/cv.pdf" %}}
 
 **Youtube**:
 
