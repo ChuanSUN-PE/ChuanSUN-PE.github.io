@@ -5,7 +5,7 @@ date: 2024-09-05
 type: docs
 math: false
 tags:
-  - ADS
+  - js
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
