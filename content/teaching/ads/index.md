@@ -22,6 +22,8 @@ Teach your course by sharing videos with your students. Choose from one of the f
 
 {{< embed-pdf url="./path/content/teaching/ads/conference-paper.pdf" >}}
 
+[Download file](./conference-paper.pdf)
+
 **Youtube**:
 
     {{</* youtube w7Ft2ymGmfc */>}}
