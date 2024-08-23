@@ -20,8 +20,6 @@ On this page, you'll find some examples of the types of technical content that c
 
 Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
-{{< embed-pdf url="./path/content/teaching/ads/conference-paper.pdf" >}}
-
 [Download file](./conference-paper.pdf)
 
 **Bilibili**:
