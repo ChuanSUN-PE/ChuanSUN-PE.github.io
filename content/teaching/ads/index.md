@@ -1,11 +1,11 @@
 ---
-title: Learn JavaScript
+title: Learn Algorithms and Data Structures
 summary: Easily learn JavaScript in 10 minutes!
-date: 2023-10-24
+date: 2024-09-05
 type: docs
 math: false
 tags:
-  - JavaScript
+  - ADS
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
