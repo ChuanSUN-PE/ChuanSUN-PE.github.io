@@ -22,7 +22,7 @@ Teach your course by sharing videos with your students. Choose from one of the f
 
 {{< youtube D2vj0WcvH5c >}}
 
-SUNCHUAN
+{{< embed-pdf url="./path/conference-paper.pdf" >}}
 
 **Youtube**:
 
