@@ -22,6 +22,10 @@ Teach your course by sharing videos with your students. Choose from one of the f
 
 {{< youtube D2vj0WcvH5c >}}
 
+      button:
+        text: Download CV
+        url: uploads/resume.pdf
+
 **Youtube**:
 
     {{</* youtube w7Ft2ymGmfc */>}}
