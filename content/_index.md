@@ -39,7 +39,7 @@ sections:
         
         Typically, we focus on optimizing circuit topologies, designing advanced modulation and control algorithms, implementing intelligent power management, and exploring new semiconductor devices and magnetic elements to achieve higher-efficiency, faster, and more flexible and robust power conversion in a wide range of applications such as renewable energy systems, wireless power transfer, electric vehicles, and industrial and consumer electronics. 
         
-        As the world’s energy systems are moving from fossil-fuel based to more electrification, power electronics will play an increasing and essential role in supplying clean energy to us and securing a sustainable and low-carbon living.
+        As the world's energy systems are moving from fossil-fuel based to more electrification, power electronics will play an increasing and essential role in supplying clean energy to us and securing a sustainable and low-carbon living.
         
         Please reach out to collaborate! 😃
     design:
