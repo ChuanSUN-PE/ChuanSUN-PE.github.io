@@ -10,11 +10,9 @@ image:
   caption: 'Embed rich study resources such as lecture notes and related codes'
 ---
 
-"Algorithm Design and Data Structure" is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+Algorithms and Data Structures (ADS) is structured to take students from an introductory knowledge of C language to a higher level, as well as addressing some key areas of computer programming and algorithm design. Topics include: review of class hierarchies, inheritance, friends, polymorphism and type systems; recursion; OO design principles, abstract data types, testing and software reuse; introductory data structures: linked lists, stacks, queues, trees, heaps, algorithmic strategies for searching and sorting data in these structures; introductory complexity analysis.
 
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
-
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
+On this page, you'll find some study resources such as lecture notes and related codes for a 3-credit course "BSAS202 Algorithm Design and Data Structure (in C language)" at the Department of Engineering Science of Macau University of Science and Technology.
 
 ## Video
 
