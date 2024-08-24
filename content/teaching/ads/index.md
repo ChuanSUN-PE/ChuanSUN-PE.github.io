@@ -1,16 +1,16 @@
 ---
 title: Learn Algorithms and Data Structures
 summary: Easily learn ADS in 10 minutes!
-date: 2024-09-05
+date: 2023-09-05
 type: docs
 math: false
 tags:
   - ADS
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Embed rich study resources such as lecture notes and related codes'
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+"Algorithm Design and Data Structure" is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
 
