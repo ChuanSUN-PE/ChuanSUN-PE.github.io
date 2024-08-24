@@ -10,27 +10,17 @@ image:
   caption: 'Embed rich study resources such as lecture notes and related codes'
 ---
 
-Algorithms and Data Structures (ADS) is structured to take students from an introductory knowledge of C language to a higher level, as well as addressing some key areas of computer programming and algorithm design. Topics include: review of class hierarchies, inheritance, friends, polymorphism and type systems; recursion; OO design principles, abstract data types, testing and software reuse; introductory data structures: linked lists, stacks, queues, trees, heaps, algorithmic strategies for searching and sorting data in these structures; introductory complexity analysis.
+Learning fundamental concepts of Algorithms and Data Structures (ADS) can take students from an introductory knowledge of C programming language to a higher level and help them cultivate systematic programming discipline. generally, Topics include: review of class hierarchies, inheritance, friends, polymorphism and type systems; recursion; OO design principles, abstract data types, testing and software reuse; introductory data structures: linked lists, stacks, queues, trees, heaps, algorithmic strategies for searching and sorting data in these structures; introductory complexity analysis.
 
 On this page, you'll find some study resources such as lecture notes and related codes for a 3-credit course "BSAS202 Algorithm Design and Data Structure (in C language)" at the Department of Engineering Science of Macau University of Science and Technology.
 
-## Video
+## Lecture Notes
 
 Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
 [Lecture 1](./conference-paper.pdf)
 
-**Bilibili**:
-
-    {{</* bilibili id="BV1WV4y1r7DF" */>}}
-
-**Video file**
-
-Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
-
-    {{</* video src="my_video.mp4" controls="yes" */>}}
-
-## Podcast
+## Assignments
 
 You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
 
@@ -40,7 +30,7 @@ Try it out:
 
 {{< audio src="ambient-piano.mp3" >}}
 
-## Test students
+## Related Resources
 
 Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
 
