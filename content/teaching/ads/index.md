@@ -1,7 +1,7 @@
 ---
 title: Learn Algorithms and Data Structures
 summary: Easily learn ADS in 10 minutes!
-date: 2023-10-24
+date: 'Jan 2, 2024'
 type: docs
 math: false
 tags:
