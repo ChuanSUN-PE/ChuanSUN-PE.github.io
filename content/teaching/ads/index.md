@@ -30,7 +30,7 @@ Try it out:
 
 {{< audio src="ambient-piano.mp3" >}}
 
-## Related Resources
+## Recommended Resources
 
 Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
 
