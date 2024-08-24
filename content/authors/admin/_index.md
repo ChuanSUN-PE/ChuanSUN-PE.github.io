@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:chuan.sun@connect.polyu.hk'
+    url: 'mailto:csun@must.edu.mo'
     label: E-mail Me
   - icon: academicons/google-scholar
     url: https://scholar.google.com.sg/citations?user=HqYtgXwAAAAJ&hl=en
