@@ -10,7 +10,7 @@ image:
   caption: 'Embed rich study resources such as lecture notes and related codes'
 ---
 
-Learning fundamental concepts of Algorithms and Data Structures (ADS) can take undergraduate students from an introductory knowledge of C programming language to a higher level and help them cultivate systematic programming discipline. Generally, the topics include: review of class hierarchies, inheritance, friends, polymorphism and type systems; recursion; OO design principles, abstract data types, testing and software reuse; introductory data structures: linked lists, stacks, queues, trees, heaps, algorithmic strategies for searching and sorting data in these structures; introductory complexity analysis.
+The course of Algorithms and Data Structures (ADS) aims at teaching undergraduate students the knowledge of organizing data and estimating the running time of algorithms when they develop programs. Topics covered include representation and implementations of abstract data types, elementary algorithm analysis skills, list, stacks, heap, queues, hash-table, binary trees, and graphs, recursive techniques, and sorting algorithms. Learning the basic skills of ADS can take students from an introductory understanding of C programming language to a higher level and help them cultivate systematic programming discipline.
 
 On this page, you'll find some study resources such as lecture notes and related codes for a 3-credit course "BSAS202 Algorithm Design and Data Structure (in C language)" at the Department of Engineering Science of Macau University of Science and Technology.
 
