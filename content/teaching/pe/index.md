@@ -10,9 +10,9 @@ image:
   caption: 'Embed rich media such as files, images, videos, links and more.'
 ---
 
-Power electronics is a branch of electrical engineering that combines knowledge in circuit theory, control theory, and semiconductor physics for realizing efficient power conversion, utilization, and storage. It is the application of electronics to the control and conversion of electric power. 
+Power Electronics (PE) is a branch of electrical engineering that combines knowledge in circuit theory, control theory, and semiconductor physics for realizing efficient power conversion, utilization, and storage. It is the application of electronics to the control and conversion of electric power. 
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
+On this page, you'll find some technical materials of PE.
 
 [Lecture 1](./Intro-PE-Buck.pdf)
 
@@ -24,7 +24,7 @@ Teach your course by sharing videos with your students. Choose from one of the f
 
 **Youtube**:
 
-    {{</* youtube w7Ft2ymGmfc */>}}
+    {{</* youtube eAFBekWJm-s */>}}
 
 **Bilibili**:
 
