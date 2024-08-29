@@ -19,7 +19,7 @@ Here is an introduction slide for PE.
 
 ## Video
 
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
+The Electronics and Telecommunications Research Lab (EF502) @ HK PolyU EEE.
 
 {{< youtube eAFBekWJm-s >}}
 
