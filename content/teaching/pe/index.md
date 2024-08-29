@@ -14,7 +14,8 @@ Power Electronics (PE) is a branch of electrical engineering that combines knowl
 
 On this page, you'll find some technical materials of PE.
 
-[Lecture 1](./Intro-PE-Buck.pdf)
+Here is an introduction slide for PE.
+[Introduction to Power Electronics - Buck DC-DC Converter](./Intro-PE-Buck.pdf)
 
 ## Video
 
