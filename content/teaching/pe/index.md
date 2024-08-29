@@ -7,20 +7,20 @@ math: false
 tags:
   - PE
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Embed rich media such as files, images, videos, links and more.'
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
-
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
+Power electronics is a branch of electrical engineering that combines knowledge in circuit theory, control theory, and semiconductor physics for realizing efficient power conversion, utilization, and storage. It is the application of electronics to the control and conversion of electric power. 
 
 On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
+
+[Lecture 1](./Intro-PE-Buck.pdf)
 
 ## Video
 
 Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
-{{< youtube D2vj0WcvH5c >}}
+{{< youtube eAFBekWJm-s >}}
 
 **Youtube**:
 
