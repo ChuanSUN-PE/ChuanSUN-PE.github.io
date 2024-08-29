@@ -1,16 +1,16 @@
 ---
-title: Learn Algorithms and Data Structures
-summary: Easily learn ADS in 10 minutes!
+title: Learn Data Structures and Algorithms
+summary: Easily learn DSA in 10 minutes!
 date: 2023-09-05
 type: docs
 math: false
 tags:
-  - ADS
+  - DSA
 image:
   caption: 'Embed rich study resources such as lecture notes and related codes'
 ---
 
-The course of Algorithms and Data Structures (ADS) aims at teaching undergraduate students the knowledge of organizing data and estimating the running time of algorithms when they develop programs. Topics covered include representation and implementations of abstract data types, elementary algorithm analysis skills, list, stacks, heap, queues, hash-table, binary trees, and graphs, recursive techniques, and sorting algorithms. Learning the basic skills of ADS can take students from an introductory understanding of C programming language to a higher level and help them cultivate systematic programming discipline.
+The course of Data Structures and Algorithms (DSA) aims at teaching undergraduate students the knowledge of organizing data and estimating the running time of algorithms when they develop programs. Topics covered include representation and implementations of abstract data types, elementary algorithm analysis skills, list, stacks, heap, queues, hash-table, binary trees, and graphs, recursive techniques, and sorting algorithms. Learning the basic skills of DSA can take students from an introductory understanding of C programming language to a higher level and help them cultivate systematic programming discipline.
 
 On this page, you'll find some study resources such as lecture notes and related codes for a 3-credit course "BSAS202 Algorithm Design and Data Structure (in C language)" at the Department of Engineering Science of Macau University of Science and Technology.
 
