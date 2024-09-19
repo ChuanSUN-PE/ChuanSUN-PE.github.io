@@ -9,6 +9,10 @@ name_pronunciation: Chuan SUN
 first_name: Chuan
 last_name: SUN
 
+# Status emoji
+# status:
+# icon: ☕
+
 # Is this the primary user of the site?
 superuser: true
 
