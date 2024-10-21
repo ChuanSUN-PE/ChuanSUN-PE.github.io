@@ -1,7 +1,7 @@
 ---
 title: Learn Power Electronics
 summary: Easily learn PE in 10 minutes!
-date: 2023-09-30
+date: 2024-09-02
 type: docs
 math: false
 tags:
