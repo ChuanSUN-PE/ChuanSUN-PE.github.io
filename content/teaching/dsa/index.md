@@ -1,7 +1,7 @@
 ---
 title: Learn Data Structures and Algorithms
 summary: Easily learn DSA in 10 minutes!
-date: 2023-09-05
+date: 2024-09-05
 type: docs
 math: false
 tags:
