@@ -1,7 +1,7 @@
 ---
 title: Learn Analog Electronic Circuits
 summary: Easily learn AEC in 10 minutes!
-date: 2024-09-20
+date: 2024-11-20
 type: docs
 math: false
 tags:
