@@ -1,22 +1,22 @@
 ---
-title: Learn Power Electronics
-summary: Easily learn PE in 10 minutes!
-date: 2024-09-02
+title: Learn Analog Electronic Circuits
+summary: Easily learn AEC in 10 minutes!
+date: 2024-11-26
 type: docs
 math: false
 tags:
-  - PE
+  - AEC
 image:
   caption: 'Embed rich media such as files, images, videos, links and more.'
 ---
 
-Power Electronics (PE) is a branch of electrical engineering that combines knowledge in circuit theory, control theory, and semiconductor physics for realizing efficient power conversion, utilization, and storage. It is the application of electronics to the control and conversion of electric power. 
+The course of Analog Electronic Circuits (AEC) has been designed primarily as a core course for undergraduate students in electrical and electronics engineering. It starts with basic circuit components and circuit concepts and then, gradually moves to practical building blocks of analog electronic systems. In this course, a serious attempt has been made to make a balance between theory and practice so that the discussed circuits such as BJT based circuits can be constructed in an undergraduate level laboratory class and their measured performance can be easily compared with the analytically predicted performance. It helps to build confidence on theory.  
 
-On this page, you'll find some technical materials of PE.
+On this page, you'll find some study resources such as lecture notes for a 3-credit course "EIE340 Analog Circuits" at the Department of Engineering Science of Macau University of Science and Technology.
 
-Here is an introduction slide for PE.
+Here is an introduction slide for AEC.
 
-[Introduction to Power Electronics - Buck DC-DC Converter](./Intro-PE-Buck.pdf)
+[Introduction to Analog Electronic Circuits](./Intro-PE-Buck.pdf)
 
 ## Video
 
