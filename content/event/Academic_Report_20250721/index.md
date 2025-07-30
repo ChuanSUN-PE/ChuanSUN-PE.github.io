@@ -30,7 +30,7 @@ authors:
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: 'Image credit: [**Unsplash**](https://see.cumt.edu.cn/info/1029/3702.htm)'
@@ -41,7 +41,7 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_slides: 'https://slideshare.net'
+url_slides: 'https://chuansun-pe.github.io/event/academic_report_20250721/Academic_Report_20250721.pdf'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -59,7 +59,7 @@ projects:
   - example
 ---
 
-[Slides](./Academic_Report_20250721.pdf)
+[Slides: Optimized Transient Modulation and Control Strategies for Bidirectional Dual-Active-Bridge DC-DC Converters](./Academic_Report_20250721.pdf)
 
 {{% callout note %}}
 Click on the **PDF or Slides** button above to view the Slides.
