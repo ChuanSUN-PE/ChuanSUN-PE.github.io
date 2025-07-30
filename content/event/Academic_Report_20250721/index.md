@@ -62,5 +62,5 @@ projects:
 [Slides](./Academic_Report_20250721.pdf)
 
 {{% callout note %}}
-Click on the **PDF or Slides** button above to view the built-in Slides.
+Click on the **PDF or Slides** button above to view the Slides.
 {{% /callout %}}
