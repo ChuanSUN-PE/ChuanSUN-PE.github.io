@@ -41,6 +41,7 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
+url_slides: 'https://slideshare.net'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -58,6 +59,8 @@ projects:
   - example
 ---
 
+[Slides](./Academic_Report_20250721.pdf)
+
 {{% callout note %}}
-Click on the **PDF** button above to view the built-in [Slides](./Academic_Report_20250721.pdf).
+Click on the **PDF or Slides** button above to view the built-in Slides.
 {{% /callout %}}
