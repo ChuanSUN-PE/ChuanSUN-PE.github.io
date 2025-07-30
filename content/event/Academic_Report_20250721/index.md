@@ -62,5 +62,5 @@ projects:
 [Slides: Optimized Transient Modulation and Control Strategies for Bidirectional Dual-Active-Bridge DC-DC Converters](./Academic_Report_20250721.pdf)
 
 {{% callout note %}}
-Click on the **PDF or Slides** button above to view the Slides.
+Click on the **Slides** button above to view the Slides.
 {{% /callout %}}
