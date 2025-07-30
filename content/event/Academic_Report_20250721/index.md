@@ -1,10 +1,10 @@
 ---
-title: Example Talk
+title: Optimized Transient Modulation and Control Strategies for Bidirectional Dual-Active-Bridge DC-DC Converters
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Academic Report @ CUMT
+event_url: https://see.cumt.edu.cn/info/1029/3702.htm
 
-location: Hugo Blox Builder HQ
+location: China University of Mining and Technology, Xuzhou
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -17,12 +17,12 @@ abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2025-06-01T13:00:00Z'
+date_end: '2025-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-01-01T00:00:00Z'
 
 authors:
   - admin
@@ -41,10 +41,8 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
 url_pdf: ''
 url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
