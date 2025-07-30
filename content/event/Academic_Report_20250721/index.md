@@ -41,7 +41,7 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_slides: './Academic_Report_20250721.pdf'
+
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
