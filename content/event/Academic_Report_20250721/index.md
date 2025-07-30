@@ -6,26 +6,26 @@ event_url: https://see.cumt.edu.cn/info/1029/3702.htm
 
 location: China University of Mining and Technology, Xuzhou
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: No.1 Jinshan East Road
+  city: Xuzhou
+  region: Jiangsu
+  postcode: '221006'
+  country: China
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: An academic report on the topic of dynamic performance improvement for DAB converters @ CUMT.
+abstract: 'Due to the advantages of simple structure, wide-range soft-switching features, ease of modulation and control, etc., both non-resonant dual-active-bridge converter (NR-DABC) and series-resonant DABC (SR-DABC) are preferred options for isolated bidirectional dc-dc power-conversion applications. As DABC is more frequently employed in power-electronic systems that demand fast dynamics, its optimal transient performance is an active research topic. It is found that when the control variables, i.e., phase-shift angles, are updated through conventional transient phase-shift modulation, severe transient oscillations and/or dc offsets will be induced in the high-frequency-link currents of DABC. These transient oscillations and dc offsets will lead to high current stresses on power devices, and they can span many switching periods during transient stage, thus introducing excessive time delays between the PWM generator and controller. Consequently, truly optimal dynamic performance cannot be achieved with a high-performance controller alone, and the modulation-induced problems must also be thoroughly investigated. This report focuses on developing sensorless optimized transient phase-shift modulation methods for DABCs and presents detailed theoretical analyses, mathematical derivations, and real-time closed-loop experimental verifications. The reported findings provide insights on the optimization of the dynamics of DABC using advanced and effective transient modulation schemes and controller design.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-06-01T13:00:00Z'
-date_end: '2025-06-01T15:00:00Z'
+date: '2025-07-21T10:00:00Z'
+date_end: '2025-06-01T11:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-01-01T00:00:00Z'
+publishDate: '2025-07-30T14:00:00Z'
 
 authors:
-  - admin
+  - C. SUN
 
 tags: []
 
@@ -41,8 +41,7 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_pdf: './Academic_Report_20250721.pdf'
-url_slides: 'https://slideshare.net'
+url_slides: './Academic_Report_20250721.pdf'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
