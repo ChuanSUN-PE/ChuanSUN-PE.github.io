@@ -13,6 +13,11 @@ address:
   country: China
 
 summary: An academic report on the topic of dynamic performance improvement for DAB converters @ CUMT.
+
+Here is an introduction slide for PE.
+
+[Introduction to Power Electronics - Buck DC-DC Converter](./Academic_Report_20250721.pdf)
+
 abstract: 'Due to the advantages of simple structure, wide-range soft-switching features, ease of modulation and control, etc., both non-resonant dual-active-bridge converter (NR-DABC) and series-resonant DABC (SR-DABC) are preferred options for isolated bidirectional dc-dc power-conversion applications. As DABC is more frequently employed in power-electronic systems that demand fast dynamics, its optimal transient performance is an active research topic. It is found that when the control variables, i.e., phase-shift angles, are updated through conventional transient phase-shift modulation, severe transient oscillations and/or dc offsets will be induced in the high-frequency-link currents of DABC. These transient oscillations and dc offsets will lead to high current stresses on power devices, and they can span many switching periods during transient stage, thus introducing excessive time delays between the PWM generator and controller. Consequently, truly optimal dynamic performance cannot be achieved with a high-performance controller alone, and the modulation-induced problems must also be thoroughly investigated. This report focuses on developing sensorless optimized transient phase-shift modulation methods for DABCs and presents detailed theoretical analyses, mathematical derivations, and real-time closed-loop experimental verifications. The reported findings provide insights on the optimization of the dynamics of DABC using advanced and effective transient modulation schemes and controller design.'
 
 # Talk start and end times.
