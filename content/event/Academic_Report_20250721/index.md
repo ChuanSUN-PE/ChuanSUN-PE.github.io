@@ -59,9 +59,5 @@ projects:
 ---
 
 {{% callout note %}}
-Click on the **PDF** button above to view the built-in slides.
+Click on the **PDF** button above to view the built-in [Slides](./Academic_Report_20250721.pdf).
 {{% /callout %}}
-
-Here is an introduction slide for PE.
-
-[Introduction to](./Academic_Report_20250721.pdf)
