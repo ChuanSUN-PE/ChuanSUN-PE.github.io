@@ -17,12 +17,12 @@ abstract: 'Due to the advantages of simple structure, wide-range soft-switching 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2025-07-21T10:00:00Z'
+date_end: '2025-07-21T11:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-01-01T00:00:00Z'
 
 authors:
   - C. SUN
