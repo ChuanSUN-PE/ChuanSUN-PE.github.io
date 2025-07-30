@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Unsplash**](https://see.cumt.edu.cn/info/1029/3702.htm)'
   focal_point: Right
 
 #links:
@@ -62,11 +62,3 @@ projects:
 {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
