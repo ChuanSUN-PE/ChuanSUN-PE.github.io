@@ -30,7 +30,7 @@ authors:
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://see.cumt.edu.cn/info/1029/3702.htm)'
