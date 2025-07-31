@@ -29,7 +29,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Power Electronics, 38*(7)"
-publication_short: "TPEL"
+publication_short: "IEEE TPEL"
 
 abstract: Given the wide-range applications of bidirectional dual-active-bridge series-resonant converter (DABSRC), its complex nonlinear dynamic behavior is an interesting phenomenon that deserves attention of power electronics engineers. It is observed that if the control variables (i.e., phase-shift angles) are directly updated through conventional transient modulation, large-amplitude transient oscillations and dc offsets will be induced in the high-frequency-link voltages and currents during transient stage, which can ultimately degrade the converter's waveform quality significantly. The relatively few prior works in studying the transient oscillatory behavior of DABSRC have only focused on single-phase-shift modulation. In this article, a new transient modulation method referred to as generalized trajectory-switching modulation (GTSM) is first proposed for enhancing the transient performance of multiphase-shift modulated DABSRC. GTSM can simultaneously mitigate the problems of transient oscillations and dc offsets regardless of operation modes and power-flow directions, thus always ensuring safe transient operation. It also enables the resonant voltages and currents as well as magnetizing current to seamlessly reach the desired new steady-state values swiftly. Finally, the said theoretical claims are verified experimentally under both open loop and closed loop with model predictive control, and the influence of deviations from nominal resonant tank's parameters on GTSM is also considered.
 
