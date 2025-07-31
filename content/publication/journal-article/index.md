@@ -35,13 +35,13 @@ abstract: The dynamics of nonresonant dual-active-bridge converter (DABC) are si
 summary: Ultra-fast and completely dc-offset-free dynamics in nonresonant dual-active-bridge dc-dc converters.
 
 tags:
-- Source Themes
+- Dynamics of DAB Converters
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://chuansun-pe.github.io/content/publication/journal-article/9795352.pdf
+url_pdf: https://chuansun-pe.github.io/content/publication/journal-article/sun2022unified/sun2022unified.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -72,7 +72,7 @@ projects: []
 slides: example
 ---
 
-[PDF: A Unified Design Approach of Optimal Transient Single-Phase-Shift Modulation for Nonresonant Dual-Active-Bridge Converter With Complete Transient DC-Offset Elimination](https://chuansun-pe.github.io/content/publication/journal-article/9795352.pdf)
+[PDF: A Unified Design Approach of Optimal Transient Single-Phase-Shift Modulation for Nonresonant Dual-Active-Bridge Converter With Complete Transient DC-Offset Elimination](https://chuansun-pe.github.io/content/publication/journal-article/sun2022unified/sun2022unified.pdf)
 {{% callout note %}}
 
 Click on the **PDF** button above to view the full text.
