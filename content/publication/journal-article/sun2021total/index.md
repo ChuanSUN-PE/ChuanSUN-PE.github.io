@@ -68,8 +68,6 @@ projects: []
 slides: example
 ---
 
-[PDF](https://chuansun-pe.github.io/content/publication/journal-article/sun2021total/sun2021total.pdf)
-
 {{% callout note %}}
 Click on the **PDF** button above to view the full text.
 {{% /callout %}}
