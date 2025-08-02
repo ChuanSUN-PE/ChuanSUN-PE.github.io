@@ -75,8 +75,8 @@ slides: example
 ---
 
 [PDF: Generalized Multiphase-Shift Transient Modulation for Dual-Active-Bridge Series-Resonant Converter](https://chuansun-pe.github.io/content/publication/journal-article/sun2023generalized/sun2023generalized.pdf)
-{{% callout note %}}
 
+{{% callout note %}}
 Click on the **PDF** button above to view the full text.
 {{% /callout %}}
 
