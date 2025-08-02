@@ -81,5 +81,5 @@ Click on the **PDF** button above to view the full text.
 {{% /callout %}}
 
 {{% callout note %}}
-Click the *Cite* button above to import publication metadata into the reference management software.
+Click the **Cite** button above to import publication metadata into the reference management software.
 {{% /callout %}}
