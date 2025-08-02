@@ -69,11 +69,11 @@ slides: example
 ---
 
 [PDF: Total Suppression of High-Frequency Transient Oscillations in Dual-Active-Bridge Series-Resonant Converter by Trajectory-Switching Modulation](https://chuansun-pe.github.io/content/publication/journal-article/sun2021total/sun2021total.pdf)
-{{% callout note %}}
 
+{{% callout note %}}
 Click on the **PDF** button above to view the full text.
 {{% /callout %}}
 
 {{% callout note %}}
-Click the *Cite* button above to import publication metadata into the reference management software.
+Click the **Cite** button above to import publication metadata into the reference management software.
 {{% /callout %}}
