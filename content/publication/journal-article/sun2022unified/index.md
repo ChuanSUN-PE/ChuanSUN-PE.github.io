@@ -73,11 +73,11 @@ slides: example
 ---
 
 [PDF: A Unified Design Approach of Optimal Transient Single-Phase-Shift Modulation for Nonresonant Dual-Active-Bridge Converter With Complete Transient DC-Offset Elimination](https://chuansun-pe.github.io/content/publication/journal-article/9795352.pdf)
-{{% callout note %}}
 
+{{% callout note %}}
 Click on the **PDF** button above to view the full text.
 {{% /callout %}}
 
 {{% callout note %}}
-Click the *Cite* button above to import publication metadata into the reference management software.
+Click the **Cite** button above to import publication metadata into the reference management software.
 {{% /callout %}}
