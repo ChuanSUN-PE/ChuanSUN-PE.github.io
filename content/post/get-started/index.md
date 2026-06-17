@@ -1,7 +1,7 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: 🎉 Dr. Sun was a recipient of the IEEE JESTPE Star Reviewer Award in 2025.
+summary: Dr. Sun was recognized as a recipient of the IEEE JESTPE Star Reviewer Award in 2025 in recognition of his outstanding reviewing contributions.
+date: 2026-06-17
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
