@@ -1,7 +1,7 @@
 ---
 title: 🎉 Dr. Sun was a recipient of the IEEE TPEL Outstanding Reviewer Award in 2025.
 summary: Dr. Sun was recognized as a recipient of the IEEE TPEL Outstanding Reviewer Award in 2025 in recognition of his outstanding reviewing contributions.
-date: 2026-06-17
+date: 2026-08-22
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
